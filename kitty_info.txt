@@ -1,0 +1,96 @@
+~~ kitty_ipsum_1.txt info ~~
+
+Number of lines:
+27
+
+Number of words:
+332
+
+Number of characters:
+1738
+
+Number of times meow or meowzer appears:
+7
+
+Lines that they appear on:
+1hide from vacuum cleaner meow for catnip and act crazy steal
+4shirt howl or gimme attention meow bye and eat grass, meow, and
+10i stare at it i meow at it i do a wiggle come here birdy ears
+22eat sniff catnip meow meowzer. good morning sunshine. lick human chase
+23the pig around the house meow run in circles. always ensure to
+1
+4
+10
+22
+23
+
+Number of times cat, cats, or catnip appears:
+7
+
+Lines that they appear on:
+1
+3
+7
+17
+21
+22
+26
+
+
+~~ kitty_ipsum_2.txt info ~~
+
+Number of lines:
+28
+
+Number of words:
+307
+
+Number of characters:
+1678
+
+Number of times meow or meowzer appears:
+9
+
+ Lines that they appear on:
+
+Lines that they appear on:
+4
+8
+12
+20
+24
+25
+28
+
+Number of times cat, cats, or catnip appears:
+8
+
+Lines that they appear on:
+my head something feels fishy scratch at fleas, meow until
+lick paw wake up owner meow meowzer. eat a rug and hairs
+out. jump around on couch, meow constantly until given food,
+cat. meow all night disturbing sleeping humans intently looking
+the toilet paper meow for human to feed me or eat owner's food.
+cats meow or while happily ignoring when being called. stare out
+give me attention eat sniff catnip meow meowzer.
+4
+8
+12
+20
+24
+25
+28
+4
+8
+12
+20
+24
+25
+28
+10
+14
+19
+20
+25
+26
+28
